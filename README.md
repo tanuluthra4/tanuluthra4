@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Tanu 👋
 
-<!--
-**tanuluthra4/tanuluthra4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Engineering student focused on building strong
+problem-solving fundamentals for software internships.
 
-Here are some ideas to get you started:
+### Currently Working On
+- Data Structures & Algorithms (Python)
+- Core programming concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🤖 JINI — Python-based AI assistant for task automation
+
+### Tech Stack
+- Python
+- C, C++
+- SQL
+
+📌 This profile reflects focused learning and clean, documented work.
